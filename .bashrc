@@ -1,0 +1,1 @@
+/home/gaelen/dotfiles/.bashrc
